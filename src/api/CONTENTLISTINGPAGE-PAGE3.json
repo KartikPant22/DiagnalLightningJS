@@ -1,0 +1,81 @@
+{
+  "page": {
+    "title": "Romantic Comedy",
+    "total-content-items" : "54",
+    "page-num" : "3",
+    "page-size" : "14",
+    "content-items": {
+      "content": [
+        {
+        "name": "The 3rd Family",
+        "poster-image": "poster9.jpg",
+        "description": "A heartwarming tale of a dysfunctional family coming together over a shared love of cooking, as they compete in a high-stakes cooking competition to win the ultimate prize and restore their bond."
+        },
+        {
+        "name": "Family Pot",
+        "poster-image": "poster8.jpg",
+        "description": "When a family inherits a run-down restaurant from their late grandfather, they must work together to revive the business and save it from being taken over by a greedy rival chain."
+        },
+        {
+        "name": "Rear Window",
+        "poster-image": "poster7.jpg",
+        "description": "A photographer, confined to his apartment with a broken leg, starts to spy on his neighbors and becomes convinced that one of them has committed a murder. As he investigates further, he puts his own life in danger."
+        },
+        {
+        "name": "The Birds",
+        "poster-image": "poster9.jpg",
+        "description": "In a small coastal town, a series of inexplicable bird attacks wreak havoc on the community, forcing a group of strangers to band together and fight for survival against the relentless onslaught of the feathered fiends."
+        },
+        {
+        "name": "Rear Window",
+        "poster-image": "poster9.jpg",
+        "description": "A wheelchair-bound man, with nothing but time on his hands, spends his days observing his neighbors through a telephoto lens. But when he witnesses a crime, he finds himself in the middle of a dangerous game of cat and mouse."
+        },
+        {
+        "name": "The Birds",
+        "poster-image": "poster8.jpg",
+        "description": "In this chilling horror classic, a wealthy socialite and a handsome lawyer find themselves trapped in a small coastal town under siege by a swarm of vicious, bloodthirsty birds."
+        },
+        {
+        "name": "Family Pot",
+        "poster-image": "poster7.jpg",
+        "description": "A dysfunctional family reunites for a Thanksgiving dinner that quickly turns into a chaotic and hilarious disaster, as old grudges resurface, secrets are revealed, and a turkey becomes the least of their problems."
+        },
+        {
+        "name": "Family Pot",
+        "poster-image": "poster9.jpg",
+        "description": "In this heartwarming comedy, a young chef inherits her grandmother's secret recipe book, and with the help of her eccentric family, she sets out to turn their failing restaurant into a culinary sensation."
+        },
+        {
+        "name": "Family Pot",
+        "poster-image": "poster8.jpg",
+        "description": "When a struggling chef is unexpectedly reunited with her estranged family, she must learn to put aside their differences and work together to save their beloved restaurant from bankruptcy."
+        },
+        {
+        "name": "Rear Window",
+        "poster-image": "poster7.jpg",
+        "description": "A bored and frustrated man, stuck in his apartment with a broken leg, passes the time by spying on his neighbors. But when he becomes convinced that one of them has committed a murder, he sets out to catch the killer himself."
+        },
+        {
+        "name": "The Birds with an Extra Long Title",
+        "poster-image": "poster9.jpg",
+        "description": "In this epic tale of terror, a small coastal town is besieged by a massive flock of bloodthirsty birds, leaving a group of survivors to fight for their lives against the winged onslaught."
+        },
+        {
+          "name": "Rear Window",
+          "poster-image": "poster9.jpg"
+        },
+        {
+          "name": "The Birds",
+          "poster-image": "poster8.jpg",
+          "description" : "aaaaaaaaaaaaaaaaaaaaaaa aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeefffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+        },
+        {
+          "name": "Family Pot",
+          "poster-image": "posterthatismissing.jpg",
+          "description" : " A disenchanted office worker, who is suffering from insomnia and is frustrated by the monotony of his life, decides to create an underground fight club as a way to escape his mundane existence, but as the club evolves into something much more dangerous, he finds himself caught in a web of violence, paranoia, and madness."
+        }
+      ]
+    }
+  }
+}
