@@ -7,7 +7,7 @@ export default class DynamicSpotlight extends Lightning.Component {
             h: (h) => h,
             // Backgound spotlight movie title
             MovieTitle: {
-                y: 20,
+                y: 20, 
                 text: {
                     fontSize: 28,
                     textColor: 0xffffffff,
